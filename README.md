@@ -18,3 +18,6 @@
 6. Utilizando Github con remote branches ([Github](https://github.com)).
 7. Clonando (copiando) repositorios.
 8. Estilizando nuestra cuenta.
+
+## Cheatsheet
+[Github Education Cheatsheet for Git](https://education.github.com/git-cheat-sheet-education.pdf)
