@@ -1,4 +1,5 @@
 # Taller de Github
+Si aún no te registras házlo [aquí](https://forms.gle/9hNCpYXDG3tAKmR5A).
 
 ## Link del evento
 El taller se impartirá por medio de la siguiente liga de Zoom [https://itesm.zoom.us/j/84463747815](https://itesm.zoom.us/j/84463747815).
