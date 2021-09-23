@@ -1,5 +1,9 @@
 # Taller de Github
 
+## Link del evento
+El taller se impartirá por medio de la siguiente liga de Zoom [https://itesm.zoom.us/j/84463747815](https://itesm.zoom.us/j/84463747815).
+Agrégalo a tu calendario de Google dando click [aquí](https://calendar.google.com/event?action=TEMPLATE&tmeid=NGg2a3FrZzA3dTdwY2pmdnA5Ymc4dWs2MGUgYTAxMDI1Mjc2QGl0ZXNtLm14&tmsrc=a01025276%40itesm.mx).
+
 ## Requerimientos recomendados
 - Descargar el siguiente software e instalarlo ([Git](https://git-scm.com/downloadsgithub), [Github Desktop](https://desktop.github.com/), [VS Code (opcional)](https://code.visualstudio.com/Download)).
 - Crear una cuenta en Github ([Github](https://github.com)).
